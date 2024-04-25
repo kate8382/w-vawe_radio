@@ -1,0 +1,89 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  min-width: 320px;
+  font-family: "Muller", sans-serif;
+  background-color: var(--white-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+picture {
+  display: block;
+  width: 100%;
+}
+
+.container {
+  max-width: var(--container-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding);
+  padding-right: var(--container-padding);
+}
+
+.flex {
+  display: flex;
+}
+
+.img-reset {
+  max-width: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-title {
+  margin: 0;
+  margin-bottom: 12px;
+  font-weight: 400;
+  line-height: 100%;
+  font-size: var(--title-size);
+  color: var(--black-color);
+}
+
+.section-subtitle {
+  margin: 0;
+  margin-bottom: 8px;
+  line-height: 150%;
+  font-weight: 500;
+  font-size: var(--main-text-size);
+  color: var(--black-color);
+}
+
+.text {
+  margin: 0;
+  font-weight: 400;
+  font-size: var(--text-size);
+  line-height: 150%;
+  color: var(--text-grey);
+}
+
+.list-reset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.btn-reset {
+  padding: 0;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+}

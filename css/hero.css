@@ -1,0 +1,57 @@
+.hero__container {
+  width: 100%;
+  height: auto;
+  padding-top: 91px;
+  padding-bottom: var(--padding-top);
+  background-image: url("../img/hero-microphone.jpg");
+  background-position: 74% 41%;
+  background-size: 350px 372px;
+}
+
+.hero__title {
+  margin-bottom: 14px;
+  font-weight: 500;
+  font-size: 60px;
+}
+
+.hero__title-name {
+  margin-left: 12px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.hero__text {
+  max-width: 635px;
+  margin-bottom: 45px;
+  color: var(--black-color);
+}
+
+.hero__link {
+  display: inline-block;
+  max-width: 245px;
+  min-height: 70px;
+  padding: 25px 54px 21px;
+  font-weight: 500;
+  font-size: var(--main-text-size);
+  color: var(--white-color);
+  border-radius: var(--button-radius);
+  background-color: var(--button-color);
+  outline: none;
+  border: none;
+  transition: background-color 0.3s ease-in-out, outline 0.3s ease-in-out;
+}
+
+.hero__link:focus-visible {
+  outline-offset: 0;
+  outline: 2px solid var(--active-color);
+  background-color: var(--focus-color);
+}
+
+.hero__link:hover {
+  background-color: var(--focus-color);
+}
+
+.hero__link:active {
+  outline: none;
+  background-color: var(--active-color);
+}

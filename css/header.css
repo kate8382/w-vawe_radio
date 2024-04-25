@@ -1,0 +1,68 @@
+.header__container {
+  gap: 80px;
+  width: 100%;
+  height: auto;
+  padding: 34px var(--container-padding);
+}
+
+.header-logo {
+  width: 160px;
+  height: 20px;
+}
+
+.header__nav {
+  margin-right: auto;
+}
+
+.header__list {
+  gap: 59px;
+}
+
+.header__item {
+  font-size: var(--main-text-size);
+}
+
+.header__link {
+  outline: none;
+  transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.header__link:focus-visible {
+  padding: 2px 2px 0 2px;
+  color: var(--white-color);
+  background-color: var(--focus-color);
+}
+
+.header__link:hover {
+  color: var(--button-color);
+}
+
+.header__link:active {
+  color: var(--active-color);
+  background-color: transparent;
+}
+
+.header__btn {
+  width: 24px;
+  height: 24px;
+  outline: none;
+  color: var(--button-color);
+  transition: color 0.3s ease-in-out;
+}
+
+.header__btn:focus-visible {
+  color: var(--focus-color);
+}
+
+.header__btn:hover {
+  color: var(--focus-color);
+}
+
+.header__btn:active {
+  color: var(--active-color);
+}
+
+.search-icon {
+  width: 24px;
+  height: 24px;
+}

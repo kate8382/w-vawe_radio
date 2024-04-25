@@ -1,0 +1,28 @@
+:root {
+  /* container */
+  --container-max-width: 1920px;
+  --container-padding: 405px;
+  --padding-top: 94px;
+  --gap: 30px;
+
+  /* fonts */
+  --text-size: 16px;
+  --main-text-size: 20px;
+  --title-size: 48px;
+
+  /* radius */
+  --button-radius: 40px;
+  --link-radius: 77px;
+
+  /* color */
+  --white-color: #fff;
+  --black-color: #121723;
+  --light-black: #292e39;
+  --text-grey: #a1a6b4;
+  --podcast-color: #F2F2F2;
+  --offer-color: #f0d288;
+  --border-color: #e6e8ec;
+  --button-color: #6d31ee;
+  --focus-color: #AA9DFA;
+  --active-color: #4F28A5;
+}

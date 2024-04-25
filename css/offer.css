@@ -1,0 +1,121 @@
+.offer__container {
+  gap: 32px;
+  width: 100%;
+  height: auto;
+  padding-top: var(--padding-top);
+  padding-bottom: 133px;
+  background-color: var(--light-black);
+}
+
+.offer__img {
+  position: relative;
+  padding-top: 9px;
+}
+
+.new {
+  position: absolute;
+  top: 0;
+  left: -5px;
+}
+
+.offer__content {
+  max-width: 445px;
+  background-image: url("../img/offer-wave.svg");
+  background-position: 0 20%;
+}
+
+.offer__desc {
+  max-width: 445px;
+  min-height: 205px;
+}
+
+.offer__title {
+  margin-bottom: 51px;
+  color: var(--offer-color);
+}
+
+.offer__text {
+  margin-bottom: 13px;
+  line-height: 180%;
+  color: var(--white-color);
+}
+
+.offer__price {
+  display: inline-block;
+  margin-top: 17px;
+  margin-bottom: 25px;
+  font-weight: 500;
+  font-size: var(--gap);
+  color: var(--white-color);
+}
+
+.offer__btn-link {
+  justify-content: center;
+  gap: 5px;
+  max-width: 300px;
+  height: 70px;
+  padding: 25px 12px;
+  font-weight: 500;
+  font-size: var(--main-text-size);
+  line-height: 100%;
+  color: var(--offer-color);
+  text-align: center;
+  border-radius: 100px;
+  border: 2px solid var(--offer-color);
+  outline: none;
+  transition: color 0.3s ease-in-out, backgroun-color 0.3s ease-in-out, border 0.3s ease-in-out;
+}
+
+.offer__btn-link:focus-visible {
+  color: var(--black-color);
+  border: 2px solid var(--offer-color);
+  background-color: #BB973E;
+
+  .yandex-light {
+    color: var(--offer-color);
+  }
+
+  .yandex-black {
+    color: var(--black-color);
+  }
+}
+
+.offer__btn-link:hover {
+  color: var(--black-color);
+  border: none;
+  background-color: var(--offer-color);
+
+  .yandex-light {
+    color: var(--black-color);
+  }
+
+  .yandex-black {
+    color: var(--offer-color);
+  }
+}
+
+.offer__btn-link:active {
+  color: var(--black-color);
+  border: none;
+  background-color: #BB973E;
+
+  .yandex-light {
+    color: var(--black-color);
+  }
+
+  .yandex-black {
+    color: #BB973E;
+  }
+}
+
+.yandex {
+  align-self: center;
+}
+
+.yandex-light {
+  color: var(--offer-color);
+}
+
+.yandex-black {
+  color: var(--black-color);
+}
