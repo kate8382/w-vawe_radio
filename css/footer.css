@@ -1,12 +1,15 @@
+.footer {
+  background-color: var(--light-black);
+  background-image: url("../img/footer-wave.svg");
+  background-position: 0 89%;
+}
+
 .footer__container {
   flex-direction: column;
   gap: 71px;
   width: 100%;
   height: auto;
   padding-top: var(--padding-top);
-  background-color: var(--light-black);
-  background-image: url("../img/footer-wave.svg");
-  background-position: 0 89%;
 }
 
 .footer-top {

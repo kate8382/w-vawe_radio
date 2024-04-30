@@ -1,9 +1,12 @@
+.podcast {
+  background-color: var(--podcast-color);
+}
+
 .podcast__container {
   width: 100%;
   height: auto;
   padding-top: var(--padding-top);
   padding-bottom: var(--padding-top);
-  background-color: var(--podcast-color);
 }
 
 .podcast__title {
