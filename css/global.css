@@ -43,7 +43,7 @@ picture {
 }
 
 .img-reset {
-  max-width: 100%;
+  width: 100%;
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

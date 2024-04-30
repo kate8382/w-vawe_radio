@@ -1,10 +1,13 @@
+.offer {
+  background-color: var(--light-black);
+}
+
 .offer__container {
   gap: 32px;
   width: 100%;
   height: auto;
   padding-top: var(--padding-top);
   padding-bottom: 133px;
-  background-color: var(--light-black);
 }
 
 .offer__img {

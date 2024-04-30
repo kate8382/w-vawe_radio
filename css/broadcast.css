@@ -18,10 +18,10 @@
 .broadcast__desc {
   flex-direction: column;
   justify-content: flex-end;
-  margin-top: auto;
+  max-width: 255px;
   min-height: 212px;
   background-image: url("../img/broadcast-micr.jpg");
-  background-position: 0 0;
+  background-position: 0 70%;
   background-size: 65px 89px;
 }
 
@@ -57,7 +57,7 @@
 }
 
 .broadcast__text {
-  width: 255px;
+  width: 100%;
   min-height: 48px;
 }
 
@@ -121,7 +121,6 @@
   display: inline-block;
   width: 122px;
   height: 16px;
-  font-style: italic;
   outline: none;
   transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out, fill 0.3s ease-in-out;
 }

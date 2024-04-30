@@ -1,9 +1,12 @@
+.about {
+  background-color: var(--black-color);
+}
+
 .about__container {
   width: 100%;
   height: auto;
   padding-top: 96px;
   padding-bottom: var(--padding-top);
-  background-color: var(--black-color);
 }
 
 .about__content {
