@@ -1,0 +1,1 @@
+w-vawe radio is my first independent web development project. This project is a web page that uses not only basics of html and css, but also layout: adaptive, passes the text/block overflow test, made in PixelPerfect, complies with the BEM classification, the interface is accessible from the keyboard and for use screen readers.
