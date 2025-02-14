@@ -20,6 +20,18 @@ The W-Vawe Radio project showcases various web development skills, including:
 - BEM methodology for organized and maintainable CSS code.
 - Accessibility features for users with disabilities.
 
+## Access the Project
+
+You can view the project online through GitHub Pages:
+
+[View W-Vawe Radio](https://EkaterinaSevciuc.github.io/w-vawe-radio/)
+
+## View the Code
+
+You can view and clone the source code from the GitHub repository:
+
+[View Source Code](https://github.com/EkaterinaSevciuc/w-vawe-radio)
+
 ## Installation
 
 To run the W-Vawe Radio project locally, follow these steps:
