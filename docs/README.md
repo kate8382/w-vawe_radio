@@ -39,3 +39,6 @@ To run the W-Vawe Radio project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/EkaterinaSevciuc/w-vawe-radio.git
+
+## License
+  This project is licensed under the MIT License - see the (https://github.com/EkaterinaSevciuc/w-vawe_radio/blob/main/docs/LICENSE) file for details. 
