@@ -24,13 +24,13 @@ The W-Vawe Radio project showcases various web development skills, including:
 
 You can view the project online through GitHub Pages:
 
-[View W-Vawe Radio](https://EkaterinaSevciuc.github.io/w-vawe_radio/)
+[View W-Vawe Radio](git@github.com:kate8382/w-vawe_radio.git/)
 
 ## View the Code
 
 You can view and clone the source code from the GitHub repository:
 
-[View Source Code](https://github.com/EkaterinaSevciuc/w-vawe_radio)
+[View Source Code](git@github.com:kate8382/w-vawe_radio.git)
 
 ## Installation
 
@@ -38,9 +38,9 @@ To run the W-Vawe Radio project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/EkaterinaSevciuc/w-vawe_radio.git
+   git clone git@github.com:kate8382/w-vawe_radio.git
    ```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/EkaterinaSevciuc/w-vawe_radio/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](git@github.com:kate8382/w-vawe_radio.git/blob/main/LICENSE) file for details.
