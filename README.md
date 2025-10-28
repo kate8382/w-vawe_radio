@@ -24,7 +24,7 @@ The W-Vawe Radio project showcases various web development skills, including:
 
 You can view the project online through GitHub Pages:
 
-[View W-Vawe Radio](https://kate8382.github.io/w_vawe_radio/)
+[View W-Vawe Radio](https://kate8382.github.io/w-vawe_radio/)
 
 ## View the Code
 
