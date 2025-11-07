@@ -32,6 +32,15 @@ You can view and clone the source code from the GitHub repository:
 
 [View Source Code](https://github.com/kate8382/w_vawe_radio)
 
+## Screenshots (Pixel perfect)
+
+![Pixel Perfect 1024](screenshots/PP1024.png)
+
+![Pixel Perfect 768](screenshots/PP768.png)
+
+![Pixel Perfect 320](screenshots/PP320.png)
+
+
 ## Installation
 
 To run the W-Vawe Radio project locally, follow these steps:
