@@ -34,30 +34,9 @@ You can view and clone the source code from the GitHub repository:
 
 ## Screenshots (Pixel perfect)
 
-<div style="display:flex;flex-direction:row;gap:18px;flex-wrap:nowrap;align-items:flex-start;overflow-x:auto">
-   <figure style="margin:0;text-align:center;display:inline-block;vertical-align:top;width:300px">
-      <a href="screenshots/PP1024.png">
-         <img src="screenshots/PP1024.png" alt="Pixel Perfect 1024" style="width:100%;border:1px solid #ddd;border-radius:4px;display:block;height:auto">
-      </a>
-      <figcaption style="display:block;font-size:90%;color:#555;margin-top:6px;max-width:100%;word-break:break-word;text-align:center">Desktop — 1024px (pixel-perfect)</figcaption>
-   </figure>
-
-   <figure style="margin:0;text-align:center;display:inline-block;vertical-align:top;width:220px">
-      <a href="screenshots/PP768.png">
-         <img src="screenshots/PP768.png" alt="Pixel Perfect 768" style="width:100%;border:1px solid #ddd;border-radius:4px;display:block;height:auto">
-      </a>
-      <figcaption style="display:block;font-size:90%;color:#555;margin-top:6px;max-width:100%;word-break:break-word;text-align:center">Tablet — 768px (pixel-perfect)</figcaption>
-   </figure>
-
-   <figure style="margin:0;text-align:center;display:inline-block;vertical-align:top;width:120px">
-      <a href="screenshots/PP320.png">
-         <img src="screenshots/PP320.png" alt="Pixel Perfect 320" style="width:100%;border:1px solid #ddd;border-radius:4px;display:block;height:auto">
-      </a>
-      <figcaption style="display:block;font-size:90%;color:#555;margin-top:6px;max-width:100%;word-break:break-word;text-align:center">Mobile — 320px (pixel-perfect)</figcaption>
-   </figure>
-
-</div>
-
+| ![Pixel Perfect 1024](screenshots/PP1024.png) | ![Pixel Perfect 768](screenshots/PP768.png) | ![Pixel Perfect 320](screenshots/PP320.png) |
+|---|---|---|
+| Desktop — 1024px (pixel-perfect) | Tablet — 768px (pixel-perfect) | Mobile — 320px (pixel-perfect) |
 
 ## Installation
 
