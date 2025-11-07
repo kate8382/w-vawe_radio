@@ -34,11 +34,29 @@ You can view and clone the source code from the GitHub repository:
 
 ## Screenshots (Pixel perfect)
 
-![Pixel Perfect 1024](screenshots/PP1024.png)
+<div style="display:flex;gap:18px;flex-wrap:wrap;align-items:flex-start">
+   <figure style="margin:0;text-align:center">
+      <a href="screenshots/PP1024.png">
+         <img src="screenshots/PP1024.png" alt="Pixel Perfect 1024" width="300" style="border:1px solid #ddd;border-radius:4px">
+      </a>
+   <figcaption style="font-size:90%;color:#555;margin-top:6px">Desktop — 1024px (pixel-perfect)</figcaption>
+   </figure>
 
-![Pixel Perfect 768](screenshots/PP768.png)
+   <figure style="margin:0;text-align:center">
+      <a href="screenshots/PP768.png">
+         <img src="screenshots/PP768.png" alt="Pixel Perfect 768" width="220" style="border:1px solid #ddd;border-radius:4px">
+      </a>
+   <figcaption style="font-size:90%;color:#555;margin-top:6px">Tablet — 768px (pixel-perfect)</figcaption>
+   </figure>
 
-![Pixel Perfect 320](screenshots/PP320.png)
+   <figure style="margin:0;text-align:center">
+      <a href="screenshots/PP320.png">
+         <img src="screenshots/PP320.png" alt="Pixel Perfect 320" width="120" style="border:1px solid #ddd;border-radius:4px">
+      </a>
+   <figcaption style="font-size:90%;color:#555;margin-top:6px">Mobile — 320px (pixel-perfect)</figcaption>
+   </figure>
+
+</div>
 
 
 ## Installation
