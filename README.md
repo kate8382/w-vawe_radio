@@ -36,7 +36,7 @@ You can view and clone the source code from the GitHub repository:
 
 | ![Pixel Perfect 1024](screenshots/PP1024.png) | ![Pixel Perfect 768](screenshots/PP768.png) | ![Pixel Perfect 320](screenshots/PP320.png) |
 |---|---|---|
-| Desktop — 1024px (pixel-perfect) | Tablet — 768px (pixel-perfect) | Mobile — 320px (pixel-perfect) |
+| Desktop — 1024px | Tablet — 768px | Mobile — 320px |
 
 ## Installation
 
